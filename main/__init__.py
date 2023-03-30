@@ -15,8 +15,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = 28454303("API_ID", default=None, cast=int)
 API_HASH = "69f36b96f0d1abab85adae3bd5108bf2"("API_HASH", default=None)
 BOT_TOKEN = "6162530663:AAFNS9i2IDxQ5PdPNm6FkIcTStU39KXCwgg"("BOT_TOKEN", default=None)
-SESSION = "AQC2dpwTh7AfSfSn6A9iUt_-gWv8uKdDHY4F3rohS5fMyZZS39SrtjwTzF2vm_R4933NESyYa2F5RrneILqTwt7TRiIMrrrkLZ6XkBu_jnNXp1t2JCchvnoIbP604lTU8B0s5bilH7xcT5N8vzW-hTPnop6VSoI3FM4DTF0fKj3BOQbRGmgo48medNPtQ7mSikD2B6dQaNgIXwA4em0GyHDq7iQeGkiyN9jk8NKKcIpbTsiMxFdH2hTzBNpkHBWBjVSnxX61y9T7MXpc9q0u8QAZIgjpvECDrtZbzoDd3UuXqQtlwcLh8hk6nf6HjkG-oRlmKQhngp_IdvCJGvrWcYEgKUrOxgA"("SESSION", default=None)
-FORCESUB = "hbvvfj"("FORCESUB", default=None)
+SESSION = "AQCuUv-FgR4HIlrNnFsimjYAP0SID6o0kOcnO61f5CdenYjq0FNe-juulEuXkZ-inLzWkKdVa9LQZ0MkiVXkDrscPBTcrt5A5gfzvvJJEuFohueyyblGi64YC6aTPuvR96dfmabdInpPq0akkhW4sOUDJe-idOFIm70W0inZDCmg9LjxbkNigd7fcZ4CuHROtg2oPgntqO7ws_9qMUr58U6UERDf7sAgb75cW7LTOf3nuN0dOoHVNlYkS5xygyI83KIWuCaHkE_ck4HrbUSemPgUzcq-esNOFFhxbTyJuEMQagmgTBldNDcTJc0rCAFbSHM6GqmyYhciPaKVEFzs_5BkKUrOxgA"("SESSION", default=None)
+FORCESUB = "djecgsx"("FORCESUB", default=None)
 AUTH = 692768454("AUTH", default=None, cast=int)
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
